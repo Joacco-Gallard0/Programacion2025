@@ -11,15 +11,6 @@ El usuario puede agregar nuevas películas mediante un formulario.
 También se usa una clase en PHP para aplicar Programación Orientada a Objetos.
 
 *****************************************
-Cómo ejecutar el proyecto
-*****************************************
-1. Colocar la carpeta en "htdocs" (XAMPP).
-2. Encender Apache.
-3. Abrir en el navegador:
-   http://localhost/TP-PHP
-4. Agrega películas desde el formulario.
-
-*****************************************
 Funciones, arrays y clases utilizadas
 *****************************************
 Arrays:
